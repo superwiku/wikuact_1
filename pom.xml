@@ -135,6 +135,8 @@
 		<module>social</module>
 		<module>core</module>
 		<module>webapi</module>
+		
+		<module>news</module>
 	</modules>
 
 	<profiles>
